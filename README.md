@@ -2,7 +2,7 @@
 
 Hey there !! 
 
-Let me intruduce you to my distributed friend DASK !! No worries if you don't have much experience in distrbuted computing or big data. If you are a python developer and you are loking for an alternative to SPARK, please take a look to my medium's articles. 
+Let me introduce you to my distributed friend, DASK. No worries if you don't have much experience in distrbuted computing or big data. If you are a python developer and you are loking for an alternative to SPARK, please take a look to my medium's articles. Dask will scale your Data Science skills. 
 
 ## An Introduction to Distributed Machine Learning with Dask
 
