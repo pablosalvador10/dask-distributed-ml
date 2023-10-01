@@ -1,4 +1,4 @@
-# DASK_Distributed_ML
+# Set of Articles about Dask
 
 Hey there! 😃
 
@@ -16,7 +16,7 @@ Dask is a Python library that empowers you to tackle distributed computing and l
 
 📊 **Integration**: Dask seamlessly integrates with popular libraries like NumPy, Pandas, and Scikit-Learn, enabling you to leverage your existing skills and codebase.
 
-Now, let's explore some technical aspects of Dask, but for a comprehensive walkthrough, I highly recommend checking out my articles:
+Now, let's explore some technical aspects of Dask, but for a comprehensive walkthrough, **I highly recommend checking out my articles**:
 
 ### An Introduction to Distributed Machine Learning with Dask
 
@@ -38,3 +38,4 @@ Get ready to take your machine learning models to the next level with multi-node
 
 Enjoy the journey of mastering Dask and revolutionize your approach to distributed machine learning. If you have any questions or need further assistance, feel free to reach out. Happy coding! 🚀
 
+You can copy and paste this Markdown content directly into your GitHub repository or Markdown editor.
